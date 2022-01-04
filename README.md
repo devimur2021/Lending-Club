@@ -12,13 +12,13 @@ Lending Club Case Study
 
 ## General Information
 
-Lending Club Case study project is based on the dataset from Fintech Domain.
-The analysis done helps to aid Digtial Lending organizations to determine the characteristics of a Loan borrower.
+Lending Club Case study is based on the dataset from Fintech Domain.
+The analysis done helps to aid Digtial Lending organizations to determine the financial characteristics of a Loan borrower.
 The observation from past history and the correlation of data with new customers will help the lending organization identify potential customers vs defaulters.
 This will help the organization make decision to accept or reject the loan application.
 
-- Dataset used for this case study Loan.csv
-- Data Dictionay : Data_Dictionary.xlsx
+- Dataset         : Loan.csv
+- Data Dictionay  : Data_Dictionary.xlsx
 
 ## Approach
 Steps followed in the data analysis
@@ -39,7 +39,7 @@ Relevant Study content and conclusions are included in the Project presentation
 ## Technologies Used
 - Jupiter Notebook
 - Programming : Python 3.x
-- Libraries : Numpy,Pandas,Matplotlib,Seaborn
+- Libraries : Numpy,Pandas,Matplotlib,Seaborn,DateTime
 
 
 ## Acknowledgements
