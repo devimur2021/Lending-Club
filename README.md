@@ -1,7 +1,53 @@
-# Lending-Club # 01-01-2022
-===========================
+# Project Name
+Lending Club Case Study
 
 
-Repo to Store Lending Club Case Study source
+## Table of Contents
+* [General Info](#general-information)
+* [Approach](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
-Project Buddies : Tirthankur Paul & Devi Murugappan
+
+
+## General Information
+
+Lending Club Case study project is based on the dataset from Fintech Domain.
+The analysis done helps to aid Digtial Lending organizations to determine the characteristics of a Loan borrower.
+The observation from past history and the correlation of data with new customers will help the lending organization identify potential customers vs defaulters.
+This will help the organization make decision to accept or reject the loan application.
+
+- Dataset used for this case study Loan.csv
+- Data Dictionay : Data_Dictionary.xlsx
+
+## Approach
+Steps followed in the data analysis
+- Load the data
+- Data Cleaning
+- Handle Missing Data
+- Handle Outlier
+- Sanity Check
+- Generate Dervied metrics
+- UniVariate Analysis
+- BiVariate Analysis
+- Segmented UniVariate Analysis
+
+## Conclusions
+Relevant Study content and conclusions are included in the Project presentation
+
+
+## Technologies Used
+- Jupiter Notebook
+- Programming : Python 3.x
+- Libraries : Numpy,Pandas,Matplotlib,Seaborn
+
+
+## Acknowledgements
+- This project was assignment from UpGrad as part of course curriculum
+- Reference : Pandas Documentation https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+
+
+## Contact
+Created by [@devimur2021] 
+
+
